@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NBack Bootcamp</string>
+
+    <string name="title_line1">N - BACK</string>
+    <string name="title_line2">BOOTCAMP</string>
+    <string name="action_settings">Settings</string>
+</resources>
