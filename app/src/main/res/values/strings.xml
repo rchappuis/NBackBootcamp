@@ -2,6 +2,9 @@
     <string name="app_name">NBack Bootcamp</string>
 
     <string name="title_line1">N - BACK</string>
-    <string name="title_line2">BOOTCAMP</string>
-    <string name="action_settings">Settings</string>
+    <string name="title_line2">BOOT CAMP</string>
+    <string name="game_start_text">Start</string>
+    <string name="game_settings_text">Settings</string>
+    <string name="visual_button_title">Visual</string>
+    <string name="audio_button_title">Audio</string>
 </resources>
